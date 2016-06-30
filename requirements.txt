@@ -1,0 +1,4 @@
+cffi==1.7.0
+numpy==1.11.1
+pycparser==2.14
+sounddevice==0.3.3
